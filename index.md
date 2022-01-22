@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Yun Codes"
 ---
 
-I'm glad you are here. I plan to talk about ...
+This where I share my journey of learning programming...
